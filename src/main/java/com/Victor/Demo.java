@@ -7,6 +7,6 @@ public class Demo
 	@GetMapping("/")
 	public String Portada()
 	{
-		return "Portada";
+		return "portada";
 		}
 }
